@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Workspace/Unreal_Engine/PRDemo_FP_HMD/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Workspace/Unreal_Engine/PRDemo_FP_HMD/Content/Maps/PR_Demo_Map.umap"
+			]
+		}
+	]
+}
